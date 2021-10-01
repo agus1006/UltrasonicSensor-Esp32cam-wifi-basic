@@ -14,8 +14,10 @@
  * Componente     PinESP32CAM     Estados lógicos
  * ledStatus------GPIO 33---------On=>LOW, Off=>HIGH
  * ledFlash-------GPIO 4----------On=>HIGH, Off=>LOW
- * HC-SR04-VCC-----VCC-FTID
- * HC-SR04-GND-----GND
+ * HC-SR04-VCC----VCC-FTID
+ * HC-SR04-GND----GND-FTDI
+ * HC-SR04-Trig---GPI015
+ * HC-SR04-Echo---GPI014
  */
 
 //Bibliotecas
